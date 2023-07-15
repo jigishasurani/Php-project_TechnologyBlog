@@ -1,3 +1,4 @@
+//Admin can make changes on posts
 
 <?php require_once 'process.php'; ?>
 <?php $con = new mysqli("localhost","root","","post"); ?>
