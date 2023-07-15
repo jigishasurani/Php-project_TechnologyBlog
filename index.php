@@ -28,7 +28,7 @@
         <li class="banner_slide_02">
             <div class="slide_caption">
                 <h1>Machine Learning</h1>
-                <p>Machine Learning, computers are programmed to learn to do something they are not programmed to do: they learn by discovering patterns and insights from data. In general, we have two types of learning, supervised and unsupervised.</p>
+                <p>Machine Learning, computers are programmed to learn to do something they are not programmed to do: they learn by it self with discovering patterns and insights from data. In general, we have two types of learning, supervised and unsupervised.</p>
 				</div>
         </li>
         <li class="banner_slide_03">
