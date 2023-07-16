@@ -3,7 +3,6 @@
 <?php $con = new mysqli("localhost","root","","post"); ?>
 <?php  if(isset($_SESSION['message'])): ?>
 
-
 <?php endif ?> 
  
 <!DOCTYPE html>
