@@ -77,7 +77,7 @@
         <h1>About This Page</h1>
                     <h2>New Technology</h2>
                     <p>This blog is provide new and trending technology information.User provide honest feedback, improve company culture and discover relevant career information. 
-					Every user can add unique thought of new technology.</p>
+					Every user can add unique thought of new tech.</p>
                 </div>
             
         <div class="clearfix testimonial_top_bottom_spacer"></div>
