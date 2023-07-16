@@ -24,11 +24,10 @@ $description = '';
         $_SESSION['msg_type'] = "primary";
 
         header("location: post.php?result=true");
-        
 
     }
 
-    //delete data
+    //delete post
 
     if(isset($_GET['delete'])){
         $id = $_GET['delete'];
