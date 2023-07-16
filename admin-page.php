@@ -88,7 +88,6 @@
                                 </td>
                             </tr>
                             
-
                         <?php endwhile ?>
                     </table>
                 </div>
