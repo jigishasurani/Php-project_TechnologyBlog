@@ -3,7 +3,6 @@
 <?php $con = new mysqli("localhost","root","","post"); ?>
 <?php  if(isset($_SESSION['message'])): ?>
 
-
 <?php endif ?> 
  
 <!DOCTYPE html>
@@ -88,11 +87,9 @@
                                 <td>
                                     <a href="post.php?edit=<?php echo $row['id']; ?>" class="btn btn-success">edit</a>
 
-                                    
                                 </td>
                             </tr>
                             
-
                         <?php endwhile ?>
                     </table>
                 </div>
