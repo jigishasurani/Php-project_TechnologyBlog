@@ -23,7 +23,6 @@ session_start();
 
 <body class="cyan">
 
-
   <div id="login-page" class="row">
     <div class="col s12 z-depth-4 card-panel">
       <form method="post" action="routers/router.php" class="login-form" id="form">
