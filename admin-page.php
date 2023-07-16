@@ -1,9 +1,8 @@
-//Admin can make changes on posts
+//Admin can make changes on post
 
 <?php require_once 'process.php'; ?>
 <?php $con = new mysqli("localhost","root","","post"); ?>
 <?php  if(isset($_SESSION['message'])): ?>
-
 
 <?php endif ?> 
  
@@ -63,11 +62,7 @@
                                     </button>
                                 </div>
                                 ";
-                    }
-
                 ?>
-                
-
                 <?php 
                     
                     $result = mysqli_query($con, "SELECT * FROM post");
