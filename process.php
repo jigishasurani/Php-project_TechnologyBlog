@@ -7,6 +7,7 @@ $con = new mysqli("localhost","root","","post");
 if ($con->connect_error) {
   die("Connection failed: " . $con->connect_error);
 }
+
 $total = 0;
 $update = false;
 $id=0;
